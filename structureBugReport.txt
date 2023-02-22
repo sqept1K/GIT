@@ -1,0 +1,10 @@
+structure bag report: 
+
+- severity;
+- environment;
+- title; 
+- steps;
+- expected result;
+- actual result;
+- attachment.
+
