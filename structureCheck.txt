@@ -1,0 +1,8 @@
+structure check-lists:
+
+- number;
+- blockname;
+- title;
+- expected result;
+- actual result;
+- comment.
